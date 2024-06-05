@@ -1,2 +1,0 @@
-# LinearRegressionAssignment
-LinearRegressionAssignment
